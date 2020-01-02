@@ -1,0 +1,9 @@
+-cp src
+-swf swf/ld30ConnectedWorlds2.swf
+-swf-header 960:600:30:FFFFFF
+-swf-lib "obj\ld30 - Connected Worlds (2)Resources.swf"
+--flash-strict
+-swf-version 11.3
+-main Main
+-D standalone
+-D spriteParticles
